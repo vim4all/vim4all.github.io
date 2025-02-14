@@ -1,8 +1,8 @@
 ---
 title: PySpice usage in Jupyter
 date: 2025-02-08 00:00:00 -500
-categories: [programming]
-tags: [programming]
+categories: [electronics]
+tags: [electronics, programming]
 ---
 
 ### Simple buffer
@@ -12,34 +12,34 @@ tags: [programming]
     ## Circuit Netlist
     circuit = Circuit('Op-amp circuits - Example 1 Non-inverting op-amp Amplifier')
     circuit.include("uA741.lib")
-    
+
     # Define amplitude and frequency of input sinusoid
     amp = 0.2@u_V
     # Define transient simulation step time and stop time
     steptime = 0.1@u_us
     finaltime = 0.004
 ```
-    
+
 Input signal definition
 
 ```python
     source = circuit.SinusoidalVoltageSource('in', 'v+', circuit.gnd, amplitude=0.5@u_V, frequency=F_sb@u_kHz)
 ```
 
-Circuit elements definition:   
+Circuit elements definition:
 
-```python 
+```python
     # Power supply for the op-amp
     circuit.V(2, '+Vcc', circuit.gnd, 15@u_V)
     circuit.V(3, '-Vcc', circuit.gnd, -15@u_V)
     # Op-amp
     circuit.X(1, 'uA741', 'v+', 'v-', '+Vcc', '-Vcc', 'out')
-    
+
     circuit.R(1, 'v-', 'out',        0@u_kΩ)
-    circuit.R('L', 'out', circuit.gnd, 1000@u_kΩ)    
+    circuit.R('L', 'out', circuit.gnd, 1000@u_kΩ)
 ```
 
-Setting simulator object:   
+Setting simulator object:
 
 ```python
     ## Simulation: Transient Analysis
@@ -58,7 +58,7 @@ Plot signals
 
     # PLOTTING COMMANDS
     figure, (axe1, axe2) = plt.subplots(2, 1, figsize=(10, 7))
-    
+
     axe1.set_title('')
     axe1.set_xlabel('Час [s]')
     axe1.set_ylabel('Вхідна напруга [V]')
@@ -66,7 +66,7 @@ Plot signals
     plot(analysis['v+'], axis=axe1)
     axe1.legend(('Вхід', 'Вхід'), loc=(.05, .1))
     cursor = Cursor(axe1, useblit=True, color='red', linewidth=1)
-    
+
     axe2.set_title('')
     axe2.set_xlabel('Час [s]')
     axe2.set_ylabel('Вихідна напруга [V]')

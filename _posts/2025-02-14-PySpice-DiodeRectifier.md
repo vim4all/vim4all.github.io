@@ -1,11 +1,9 @@
 ---
 title: PySpice diode rectifier simulation
 date: 2025-02-14 00:00:00 -500
-categories: [electronics, programming]
+categories: [electronics]
 tags: [electronics, programming]
 ---
-
-
 
 ## Interactive Simulation of a Diode Rectifier Circuit
 
@@ -86,4 +84,4 @@ display(w)
 
 ### Resulting interactive window
 
-![alt text](../_images/PySpice_DiodeRectifier.png)
+![alt text](2025-02-14-PySpice_DiodeRectifier.png)
