@@ -84,4 +84,4 @@ display(w)
 
 ### Resulting interactive window
 
-![alt text](2025-02-14-PySpice_DiodeRectifier.png)
+![alt text](_images/2025-02-14-PySpice_DiodeRectifier.png)
