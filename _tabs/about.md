@@ -108,96 +108,56 @@ Location: Chernihiv, Ukraine
 
 ## Publications
 
-### 2025
 - **Comparative Evaluation of the Air Core Magnetic Design for MHz+ Switching Frequency**, *Applied Sciences*
-
-### 2024
 - **Concept of Wireless Low-Voltage DC Socket for the Residential House Application**, *IEEE Access*
 - **Wireless Charging Station Design for Electric Scooters: Case Study Analysis**, *Energies*
-
-### 2022
-- **Power Converter Solutions for Industrial PV Applications—A Review**
-
-### 2021
+- **Power Converter Solutions for Industrial PV Applications—A Review**, *Energies*
 - **Optimal Rotating Receiver Angles Estimation for Multicoil Dynamic Wireless Power Transfer**, *Energies*
 - **Closed-loop Control System Design for Wireless Charging of Low-Voltage EV Batteries with Time-delay Constraints**, *Energies*
-
-### 2020
 - **Feasibility Study GaN Transistors Application in the Novel Split-Coils Inductive Power Transfer System with T-Type Inverter**, *Energies*
 - **Modified Inductive Multi-Coil Wireless Power Transfer Approach Based On Z-Source Network**, *IEEE Journal of Emerging and Selected Topics in Power Electronics*
 - **Experimental Comparison of Designed Inductance Coils for Wireless Power Transfer**, *Electrical, Control and Communication Engineering*
-
-### 2019
 - **Compensation Topologies in IPT Systems: Standards, Requirements, Classification, Analysis, Comparison and Application**, *IEEE Access*
-
-### 2018
 - **Overview and Comparison of Basic Topologies of Compensation for Wireless Energy Transmission**, *Technical Sciences and Technologies*
-
-### 2017
 - **Review of the Main Technologies of Wireless Charging of Energy Accumulators for Low-power Systems**
-
 
 ---
 
 ## Conferences and Seminars
 
-- **Chernihiv, Ukraine** (22–23 May 2025) — *Analysis of Ferromagnetic Shielding Patterns in WPT Applications Using PyAEDT (ANSYS)*  
-  Комплексне забезпечення якості технологічних процесів та систем
+- **Chernihiv, Ukraine** (22–23 May 2025) — *Analysis of Ferromagnetic Shielding Patterns in WPT Applications Using PyAEDT (ANSYS)*, Комплексне забезпечення якості технологічних процесів та систем
 - **Riga, Latvia** (9–11 Oct 2023) — *Analysis and Static Mode Optimization of Simultaneous Inductive and Capacitive WPT System*
 - **Anchorage, USA** (1–3 Jun 2022) — *Inductive Bifilar Coil-Based Wireless Charging System for Autonomous Electric Boat*
 - **Bordeaux, France** (5–8 Jul 2022) — *Automatic Position Detection and Transmitter Activation in Dynamic WPT with Air Capacitor*
 - **Riga, Latvia** (15–17 Nov 2021) — *Multicoil Dynamic WPT Topology with Shared Primary-Side Compensation*
-- **Chernihiv, Ukraine** (9–11 May 2021) — *Harmonics Influence in Modified Inductive Multi-Coil WPT Based on Z-Source Network*  
-  Комплексне забезпечення якості технологічних процесів та систем
-- **Singapore** (17–20 Oct 2020) — *Reduction of Conducted Emissions in WPT Systems with Multilevel Inverters Using Spread Spectrum*  
-  IECON 2020
-- **Tallinn, Estonia** (Sep–Oct 2020) — *Inductive–Resonant WPT System with Hybrid Modulation*  
-  17th Biennial Baltic Electronics Conference (BEC)
-- **Istanbul, Turkey** (6–10 Sep 2020) — *Losses Model of the WPT System with Single-Phase T-Type Inverter*  
-  IEEE IEPS 2020
-- **Chernihiv, Ukraine** (Apr–May 2020) — *Automated Multicoil Coupling Coefficient Measurement Using Switched Relay System*  
-  Комплексне забезпечення якості технологічних процесів та систем
-- **Riga, Latvia** (6–8 Oct 2019) — *Multivariable Optimal Control of WPT Systems with Series–Parallel Compensation*  
-  RTUCON 2019
-- **Riga, Latvia** (6–8 Oct 2019) — *Double-Slope Modulation Effects on Conducted Emissions in Magnetic Resonant WPT*  
-  RTUCON 2019
-- **Riga, Latvia** (6–8 Oct 2019) — *Research and Development of Inductive–Resonant WPT System*  
-  RTUCON 2019
-- **Lviv, Ukraine** (1–5 Jul 2019) — *Comparative Evaluation of Multicoil IPT Approaches Based on Z-Source Network*  
-  UKRCON 2019
-- **Lviv, Ukraine** (1–5 Jul 2019) — *Comparative Analysis of Spread-Spectrum Techniques for Conducted Emission Reduction in MR-WPT*  
-  UKRCON 2019
-- **Riga, Latvia** (11–12 Nov 2018) — *Optimal Multivariable Control for Modified Z-Source Based IPT*  
-  RTUCON 2018
-- **Lviv, Ukraine** (1–5 Jul 2019) — *Coil Design for WPT with Series–Parallel Compensation*  
-  UKRCON 2019
-- **Kharkiv, Ukraine** (9–12 Sep 2018) — *Design and Simulation of Low-Power Wireless Charging System for E-Bike*  
-  IEEE IEPS 2018
-- **Kharkiv, Ukraine** (9–12 Sep 2018) — *Optimal Component Design for Modified Z-Source IPT Approach*  
-  IEEE IEPS 2018
-- **Budapest, Hungary** (25–29 Aug 2018) — *GaN-Based Capacitive WPT System Design Considerations*  
-  PEMC 2018
-- **Riga, Latvia** (16–20 Sep 2018) — *Single-Switch Multi-Winding WPT System Based on Z-Source Network*  
-  EPE'18 ECCE Europe
-- **Kyiv, Ukraine** (23–25 Apr 2018) — *Novel IPT Approach Based on Z-Source Network with Compensation Circuit*  
-  IEEE ELNANO 2018
-- **Chernihiv, Ukraine** (Apr–May 2018) — *Distributed Autonomous Delivery System Using Mobile Robots with Wireless Charging*  
-  Комплексне забезпечення якості технологічних процесів та систем
+- **Chernihiv, Ukraine** (9–11 May 2021) — *Harmonics Influence in Modified Inductive Multi-Coil WPT Based on Z-Source Network*, Комплексне забезпечення якості технологічних процесів та систем
+- **Singapore** (17–20 Oct 2020) — *Reduction of Conducted Emissions in WPT Systems with Multilevel Inverters Using Spread Spectrum*, IECON 2020
+- **Tallinn, Estonia** (Sep–Oct 2020) — *Inductive–Resonant WPT System with Hybrid Modulation*, 17th Biennial Baltic Electronics Conference (BEC)
+- **Istanbul, Turkey** (6–10 Sep 2020) — *Losses Model of the WPT System with Single-Phase T-Type Inverter*, IEEE IEPS 2020
+- **Chernihiv, Ukraine** (Apr–May 2020) — *Automated Multicoil Coupling Coefficient Measurement Using Switched Relay System*, Комплексне забезпечення якості технологічних процесів та систем
+- **Riga, Latvia** (6–8 Oct 2019) — *Multivariable Optimal Control of WPT Systems with Series–Parallel Compensation*, RTUCON 2019
+- **Riga, Latvia** (6–8 Oct 2019) — *Double-Slope Modulation Effects on Conducted Emissions in Magnetic Resonant WPT*, RTUCON 2019
+- **Riga, Latvia** (6–8 Oct 2019) — *Research and Development of Inductive–Resonant WPT System*, RTUCON 2019
+- **Lviv, Ukraine** (1–5 Jul 2019) — *Comparative Evaluation of Multicoil IPT Approaches Based on Z-Source Network*, UKRCON 2019
+- **Lviv, Ukraine** (1–5 Jul 2019) — *Comparative Analysis of Spread-Spectrum Techniques for Conducted Emission Reduction in MR-WPT*, UKRCON 2019
+- **Riga, Latvia** (11–12 Nov 2018) — *Optimal Multivariable Control for Modified Z-Source Based IPT*, RTUCON 2018
+- **Lviv, Ukraine** (1–5 Jul 2019) — *Coil Design for WPT with Series–Parallel Compensation*, UKRCON 2019
+- **Kharkiv, Ukraine** (9–12 Sep 2018) — *Design and Simulation of Low-Power Wireless Charging System for E-Bike*, IEEE IEPS 2018
+- **Kharkiv, Ukraine** (9–12 Sep 2018) — *Optimal Component Design for Modified Z-Source IPT Approach*, IEEE IEPS 2018
+- **Budapest, Hungary** (25–29 Aug 2018) — *GaN-Based Capacitive WPT System Design Considerations*, PEMC 2018
+- **Riga, Latvia** (16–20 Sep 2018) — *Single-Switch Multi-Winding WPT System Based on Z-Source Network*, EPE'18 ECCE Europe
+- **Kyiv, Ukraine** (23–25 Apr 2018) — *Novel IPT Approach Based on Z-Source Network with Compensation Circuit*, IEEE ELNANO 2018
+- **Chernihiv, Ukraine** (Apr–May 2018) — *Distributed Autonomous Delivery System Using Mobile Robots with Wireless Charging*, Комплексне забезпечення якості технологічних процесів та систем
 
 ---
 
 ## Patents
 
-- **UA 127482** (2018) — *Inductive method of energy transfer based on a multi-pulse converter without resonant circuits on the primary side*  
-  **Authors:** V. Shevchenko, O. Husev, B. Pakhaliuk, O. Veligorskyi
-- **UA 125856** (2018) — *Inductive method of energy transfer based on impedance link in resonant mode*  
-  **Authors:** B. Pakhaliuk, O. Husev, V. Shevchenko, O. Veligorskyi
-- **UA 143602** (2020) — *Inductive method of energy transfer using multi-coil solutions with an array of compensating capacitors*  
-  **Authors:** B. Pakhaliuk, O. Husev, V. Shevchenko, O. Veligorskyi
-- **LV LVP2021000104** (2021) — *Dynamic inductive charging with sensorless activation*  
-  **Authors:** B. Pakhaliuk, R. Strzelecki, O. Husev, V. Shevchenko, J. Zakis, D. Stepins
-- **UA 127763** (2023) — *Wireless power transmission system based on two series-connected coils with mid-points*  
-  **Authors:** O. Husev, V. Shevchenko, B. Pakhaliuk, O. Veligorskyi
+- **UA 127482** (2018) — *Inductive method of energy transfer based on a multi-pulse converter without resonant circuits on the primary side*, **Authors:** V. Shevchenko, O. Husev, B. Pakhaliuk, O. Veligorskyi
+- **UA 125856** (2018) — *Inductive method of energy transfer based on impedance link in resonant mode*, **Authors:** B. Pakhaliuk, O. Husev, V. Shevchenko, O. Veligorskyi
+- **UA 143602** (2020) — *Inductive method of energy transfer using multi-coil solutions with an array of compensating capacitors*, **Authors:** B. Pakhaliuk, O. Husev, V. Shevchenko, O. Veligorskyi
+- **LV LVP2021000104** (2021) — *Dynamic inductive charging with sensorless activation*, **Authors:** B. Pakhaliuk, R. Strzelecki, O. Husev, V. Shevchenko, J. Zakis, D. Stepins
+- **UA 127763** (2023) — *Wireless power transmission system based on two series-connected coils with mid-points*, **Authors:** O. Husev, V. Shevchenko, B. Pakhaliuk, O. Veligorskyi
 
 ---
 
@@ -210,22 +170,14 @@ Location: Chernihiv, Ukraine
 
 ## Projects
 
-- **«Методи й моделі забезпечення цілісності даних у каналах керування БпЛА в умовах застосування засобів РЕБ»**  
-  №0125U001728 · 2025–Current
-- **«Забезпечення максимальної ефективності автономних електроенергетичних систем на основі фотоелектричних перетворювачів для спеціальних застосувань»**  
-  №0123U100975 · 2024–Current
-- **«Universal Contactless Charging (UCC) parking network for light electric vehicles»**  
-  GFAEEOH24 · 2024–2025
-- **Granting task scholarship for the implementation of research tasks for doctoral students**  
-  Integrated Development of Gdańsk University of Technology · 28/02/2021–28/02/2022 · Principal Investigator
-- **Research grant for young scientists of Gdańsk University of Technology**  
-  Targeted subsidy · 30/09/2020–30/09/2021 · Principal Investigator
-- **Research grant for young scientists of Gdańsk University of Technology**  
-  Targeted subsidy · 30/09/2018–30/09/2019 · Principal Investigator
-- **«Високоефективні системи бездротової передачі електричної енергії на основі нових топологій напівпровідникових перетворювачів»**  
-  №0118U003865 · 2018–2020
-- **«Високоефективна система бездротової зарядки низьковольтних накопичувачів енергії легких електричних транспортних засобів»**  
-  №0117U007260 · 2017–2020
+- **«Методи й моделі забезпечення цілісності даних у каналах керування БпЛА в умовах застосування засобів РЕБ»**, №0125U001728 · 2025–Current
+- **«Забезпечення максимальної ефективності автономних електроенергетичних систем на основі фотоелектричних перетворювачів для спеціальних застосувань»**, №0123U100975 · 2024–Current
+- **«Universal Contactless Charging (UCC) parking network for light electric vehicles»**, GFAEEOH24 · 2024–2025
+- **Granting task scholarship for the implementation of research tasks for doctoral students**, Integrated Development of Gdańsk University of Technology · 28/02/2021–28/02/2022 · Principal Investigator
+- **Research grant for young scientists of Gdańsk University of Technology**, Targeted subsidy · 30/09/2020–30/09/2021 · Principal Investigator
+- **Research grant for young scientists of Gdańsk University of Technology**, Targeted subsidy · 30/09/2018–30/09/2019 · Principal Investigator
+- **«Високоефективні системи бездротової передачі електричної енергії на основі нових топологій напівпровідникових перетворювачів»**, №0118U003865 · 2018–2020
+- **«Високоефективна система бездротової зарядки низьковольтних накопичувачів енергії легких електричних транспортних засобів»**, №0117U007260 · 2017–2020
 
 ---
 
