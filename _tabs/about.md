@@ -170,8 +170,9 @@ Location: Chernihiv, Ukraine
 
 ## Projects
 
+- **«Методи і моделі динамічної бездротової передачі енергії на основі гібридного зв'язку»**, №- · 2026–Current
 - **«Методи й моделі забезпечення цілісності даних у каналах керування БпЛА в умовах застосування засобів РЕБ»**, №0125U001728 · 2025–Current
-- **«Забезпечення максимальної ефективності автономних електроенергетичних систем на основі фотоелектричних перетворювачів для спеціальних застосувань»**, №0123U100975 · 2024–Current
+- **«Забезпечення максимальної ефективності автономних електроенергетичних систем на основі фотоелектричних перетворювачів для спеціальних застосувань»**, №0123U100975 · 2024–2025
 - **«Universal Contactless Charging (UCC) parking network for light electric vehicles»**, GFAEEOH24 · 2024–2025
 - **Granting task scholarship for the implementation of research tasks for doctoral students**, Integrated Development of Gdańsk University of Technology · 28/02/2021–28/02/2022 · Principal Investigator
 - **Research grant for young scientists of Gdańsk University of Technology**, Targeted subsidy · 30/09/2020–30/09/2021 · Principal Investigator
@@ -183,5 +184,6 @@ Location: Chernihiv, Ukraine
 
 ## Honours and Awards
 
+- **CRASP and Elsevier** —  Scholarship for the increase of research potential of Ukrainian Ph.D. students and academics · 01/10/2025
 - **Cabinet of Ministers of Ukraine** — Scholarship for young scientists · 01/10/2024
 - **ENERGA Foundation** — Scholarship for WEiA PG doctoral students · 30/09/2019
